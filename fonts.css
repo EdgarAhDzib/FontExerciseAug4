@@ -1,7 +1,3 @@
-body {
-	font-family: 'Lucida Sans Unicode'; 
-}
-
 h1 {
 	font-family: 'Roboto', sans-serif;
 }
@@ -13,12 +9,15 @@ p {
 
 .bold {
 	font-weight: bold;
+	font-family: 'Slabo 27px', serif;
 }
 
 .twentyfour {
 	font-size: 24px;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .linefifty {
 	line-height: 50px;
+	font-family: 'Ubuntu', sans-serif;
 }
